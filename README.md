@@ -39,4 +39,5 @@ make answer-a
 make answer-b
 
 # Run the program for problem c.
+make answer-c
 ```
